@@ -13,8 +13,4 @@ class Post(models.Model):
     
 
 
-# Author (One-to-Many with Posts): An author can have multiple blog posts.
-# Category (Many-to-Many with Posts): A blog post can belong to multiple categories.
-# Profile (One-to-One with User): Each user has a single profile.
-    
     
